@@ -2,18 +2,19 @@
 
 This repository for personal Mongoose practice
 
-#step:
-type mongo in the terminal to start mongo db
+# step:
 
-type show dbs to see the local db
+-type mongo in the terminal to start mongo db
 
-type use "db name" to switch to the dbs
+-type show dbs to see the local db
 
-use command like db."collection name".find() to look the data inside a collection
+-type use "db name" to switch to the dbs
 
-use atom to update, delete data
+-use command like db."collection name".find() to look the data inside a collection
 
-type node "file name"(app.js) to update the database
+-use atom to update, delete data
 
-use command like db."collection name".find() to check the update of the database
+-type node "file name"(app.js) to update the database
+
+-use command like db."collection name".find() to check the update of the database
 
