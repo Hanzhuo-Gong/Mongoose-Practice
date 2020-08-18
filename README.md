@@ -20,3 +20,5 @@ This repository for personal Mongoose practice
 
 # Http Request React
 https://www.digitalocean.com/community/tutorials/react-axios-react
+
+https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/
