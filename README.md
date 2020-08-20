@@ -24,3 +24,5 @@ https://www.digitalocean.com/community/tutorials/react-axios-react
 https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/
 
 https://mindbowser.com/how-to-send-a-raw-data-body-to-an-axios-request-in-react-native/
+
+https://reactjs.org/docs/faq-ajax.html
