@@ -26,3 +26,5 @@ https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/
 https://mindbowser.com/how-to-send-a-raw-data-body-to-an-axios-request-in-react-native/
 
 https://reactjs.org/docs/faq-ajax.html
+
+https://docs.aws.amazon.com/apigateway/latest/developerguide/handle-errors-in-lambda-integration.html
