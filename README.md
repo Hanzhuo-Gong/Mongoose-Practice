@@ -2,6 +2,9 @@
 
 This repository for personal Mongoose practice
 
+# Lists of Documentation: 
+https://www.tutorialspoint.com/mongodb/mongodb_create_collection.htm
+
 # step:
 
 -type mongo in the terminal to start mongo db
